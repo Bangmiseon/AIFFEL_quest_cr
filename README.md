@@ -1,3 +1,4 @@
+```bash
 AIFFEL_quest_cr
 ├── MainQuest
 │   ├── Quest01
@@ -75,3 +76,4 @@ AIFFEL_quest_cr
     └── Quest07
         ├── .ipynb
         └── README.md
+```
